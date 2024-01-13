@@ -49,7 +49,7 @@ project-root/</br>
 | | |-- categoriesCtrl.test.js</br>
 | | |-- colorsCtrl.test.js</br>
 | | |-- productsCtrl.test.js</br>
-| |-- models/
+| |-- models/</br>
 | | |-- brandModel.test.js</br>
 | | |-- categoryModel.test.js</br>
 | | |-- colorModel.test.js</br>
