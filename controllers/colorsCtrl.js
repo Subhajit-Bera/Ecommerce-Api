@@ -29,7 +29,7 @@ exports.getAllColorsCtrl =async (req, res) => {
     try {
         const colors = await Color.find();
         res.status(201).json({
-            message: "colors fetched successfully",
+            message: "Colors fetched successfully",
             colors,
         });
     } catch (error) {

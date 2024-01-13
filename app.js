@@ -27,3 +27,4 @@ app.listen(process.env.PORT || 8001, (err) => {
     console.log(`server is running on port: ${process.env.PORT}`);
 });
 
+module.exports = app;
